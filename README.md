@@ -53,3 +53,6 @@ This project analyzes PizzaHut's sales data to uncover insights into revenue pat
 **Akanksha Pandey**  
   Data Analyst  
 📧 pandeyakanksha0002@gmail.com  
+### Feel free to connect with me if you have any doubts related to the project.
+
+### If you are a hiring manager, please reach out to me on email(pandeyakanksha0002@gmail.com)
